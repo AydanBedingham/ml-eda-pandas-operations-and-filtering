@@ -1,6 +1,8 @@
 
 # Pandas - Operations and Filtering
 
+Jupyter Notebook used to perform Exploratory Data Analysis (EDA).
+
 - Perform basic Exploratory Data Analysis (EDA) on the Employee Information Dataset.
 - Kyphosis is an abnormally excessive convex curvature of the spine.
 - Dataset contains 81 rows and 4 columns representing data on children who have had corrective spinal surgery.
