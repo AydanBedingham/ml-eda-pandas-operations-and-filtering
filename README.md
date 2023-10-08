@@ -1,5 +1,5 @@
 
-# Pandas - Operations and Filtering
+# Pandas Basics - Operations and Filtering
 
 Jupyter Notebook used to perform Exploratory Data Analysis (EDA).
 
